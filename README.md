@@ -1,4 +1,4 @@
- deadpaths-ios27
+ AstraSaw-iOS27
 
  This is a local vulnerability research project targeting iOS 27.0.1 (on iPhone 15 Pro Max / A17 Pro).
 The primary objective is to explore the feasibility of escalating privileges from a standard sandboxed app to the kernel, while documenting which attack paths are no longer viable.
